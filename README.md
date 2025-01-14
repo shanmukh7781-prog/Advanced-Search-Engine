@@ -7,3 +7,4 @@ Technologies:
 - Deployment: [Search Engine 2]( https://tourmaline-nasturtium-e7216a.netlify.app/ )
 - Note: For the best experience, please open this application on a desktop browser.
 
+![search engine image](https://github.com/user-attachments/assets/42dee047-2173-4d19-90c2-e5407b08e903)
